@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://images.openai.com/thumbnails/url/hKdQaHicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw72CDd3NXL0Lg0ti8ryMXALNXMvMAvycMzI8kosdEkJinJJL3P1NPQIrsj0TrLUNckwTE4LyIkM1y1TKwYAnyAoKg" 
        alt="Coding boy on computer" 
-       width="400"/>
+       width="550"/>
 </p>
 
 ###
