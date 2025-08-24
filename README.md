@@ -25,7 +25,7 @@
 
 ### 🔹 Δραστηριότητα
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?Giannis_Stath=USERNAME&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giannis_Stath&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
 
 
