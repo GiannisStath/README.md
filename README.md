@@ -12,7 +12,7 @@
 ###
 
 <p align="center">
-  <img src="https://programmer-working-flat-style_52683-15040.avif" alt="programming scene" width="400"/>
+  <img src="https://coding-boy.gif" alt="programming scene" width="400"/>
 </p>
 
 ###
