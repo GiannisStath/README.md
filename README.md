@@ -11,6 +11,12 @@
 
 ###
 
+p align="center">
+  <img src="https://link-της-εικόνας-σου.gif" alt="programming scene" width="400"/>
+</p>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
