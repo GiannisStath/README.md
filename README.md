@@ -1,6 +1,11 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
+
+###
 <p align="left">Welcome to my profile!</p>
 <p align="left">My name is Giannis and I'm a Pre-graduate Computer Science Student 🎓, from Athens</p>
 
