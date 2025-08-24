@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
