@@ -18,6 +18,17 @@
 
 ###
 
+### 🔹 Τεχνολογίες & Εργαλεία
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css,js,sqlite,unity,git,github" />
+</p>
+
+### 🔹 Δραστηριότητα
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
