@@ -61,10 +61,13 @@
 
 </ul>
 
-### 🔹 Δραστηριότητα
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiannisStath&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
-
+###
+<h2> <strong> Contact me: </strong> </h2>
+<p align="left">  
+<a href="mailto:ioannstath13@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width=50 height=35></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/TO DIKO MOY LINK DIN"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-vasilakakis-915bb72b1" width="50" height="35" /></a>
 
 ###
+
+
+
