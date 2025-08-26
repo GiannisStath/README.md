@@ -1,13 +1,15 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+<p align="left">Welcome to my profile!</p>
+<p align="left">My name is Giannis and I'm a Pre-graduate Computer Science Student 🎓, from Athens</p>
+
+
 ###
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=GiannisStath&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ###
-<p align="left">Welcome to my profile!</p>
-<p align="left">My name is Giannis and I'm a Pre-graduate Computer Science Student 🎓, from Athens</p>
 
 ###
 ![Coding animation](https://i.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif)
@@ -20,17 +22,20 @@
 
 ###
 
-<h2 align="left">About me</h2>
+
+<h2> <strong> About me: </strong> </h2>
+<ul>
+<li>🎓Pre-graduate Computer Science student at University of Piraeus.</li>
+<li>💻Junior Software Developer.</li>
+<li>🤝Open to new opportunities.</li>
+<li></li>
+</ul>
+
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p> 
+ 
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
 
 ### 🔹 Τεχνολογίες & Εργαλεία
 <p align="left">
