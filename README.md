@@ -15,7 +15,7 @@
 ###
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding animation" width="400"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding animation" width="600"/>
 </p>
 
 ###
