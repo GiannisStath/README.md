@@ -10,11 +10,12 @@
 <p align="left">My name is Giannis and I'm a Pre-graduate Computer Science Student 🎓, from Athens</p>
 
 ###
+![Coding animation](https://i.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif)
+
+###
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KVr0JbrdBp9KX644Bk/giphy.gif" 
-       alt="Coding boy" 
-       width="400"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding animation" width="400"/>
 </p>
 
 ###
