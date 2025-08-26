@@ -22,25 +22,44 @@
 
 ###
 
-
 <h2> <strong> About me: </strong> </h2>
 <ul>
 <li>🎓Pre-graduate Computer Science student at University of Piraeus.</li>
 <li>💻Junior Software Developer.</li>
 <li>🤝Open to new opportunities.</li>
 <li></li>
+<li></li>
 </ul>
 
-
 ###
-
  
 
+### 
 
-### 🔹 Τεχνολογίες & Εργαλεία
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,html,css,js,sqlite,unity,git,github" />
-</p>
+<h2> <strong> Languages/Tools: </strong> </h2>
+<ul>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" widht=50 height=50></a> 
+  <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" widht=50 height=50></a> 
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" widht=50 height=50></a> 
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=50 height=50></a> 
+  <a href=https://www.mathworks.com/products/matlab.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width=50 height=50></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=50 height=50></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width=50 height=50></a>
+  <a href="https://www.w3schools.com/sql/"><img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" width=70 height=50></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width=50 height=50></a>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png" width=50            height=50></a>
+  <a href="https://www.postgresql.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-griQ0CskJ9dC5NwUhXghZgW-balDqCeCqIgI-WTwQ&s" width=50 height=50></a>
+  <a href="https://sqlite.org/index.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2RWaYhBMD0Jlw5po92209ipQy8veMCd0fWaLqUGk&s" width=80 height=50></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50"       height="50"/> </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50"      height="50"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"        alt="javascript" width="50" height="50"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>    </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="50"/> </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/></a>
+
+</ul>
 
 ### 🔹 Δραστηριότητα
 <p align="center">
