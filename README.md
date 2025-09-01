@@ -23,13 +23,13 @@
 ###
 
 <h2> <strong> About me: </strong> </h2>
-<ul>
-<li>🎓Pre-graduate Computer Science student at University of Piraeus.</li>
-<li>💻Junior Software Developer.</li>
-<li>🤝Open to new opportunities.</li>
-<li></li>
-<li></li>
-</ul>
+  <ul>
+    <li>🎓Pre-graduate Computer Science student at University of Piraeus.</li>
+    <li>💻Junior Software Developer.</li>
+    <li>🤝Open to new opportunities.</li>
+    <li></li>
+    <li></li>
+  </ul>
 
 ###
  
