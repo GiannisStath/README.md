@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">Welcome to my profile!</p>
-<p align="left">My name is Giannis and I'm a Pre-graduate Computer Science Student 🎓, from Athens</p>
+<p align="left">My name is Giannis and I'm a Pre-graduate Computer Science Student 🎓!, from Athens</p>
 
 
 ###
